@@ -1,2 +1,3 @@
 # deep_learning
-All assignments and projects for deep learning course
+
+Theory and implementation examples of various deep learning concepts via Jupyter notebook.
