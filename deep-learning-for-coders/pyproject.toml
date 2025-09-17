@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "deep-learning-for-coders"
+version = "0.1.0"
+description = "Deep learning project with fast.ai"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "fastai",
+    "ipywidgets>=8.1.0",
+    "matplotlib>=3.8,<3.10",
+]
+
+[project.optional-dependencies]
+dev = [
+    "jupyter",
+    "notebook"
+]

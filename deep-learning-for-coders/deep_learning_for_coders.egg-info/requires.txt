@@ -1,0 +1,7 @@
+fastai
+ipywidgets>=8.1.0
+matplotlib<3.10,>=3.8
+
+[dev]
+jupyter
+notebook

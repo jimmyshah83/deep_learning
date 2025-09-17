@@ -1,0 +1,6 @@
+pyproject.toml
+deep_learning_for_coders.egg-info/PKG-INFO
+deep_learning_for_coders.egg-info/SOURCES.txt
+deep_learning_for_coders.egg-info/dependency_links.txt
+deep_learning_for_coders.egg-info/requires.txt
+deep_learning_for_coders.egg-info/top_level.txt

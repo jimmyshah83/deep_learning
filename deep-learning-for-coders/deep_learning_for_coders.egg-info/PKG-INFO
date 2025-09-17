@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: deep-learning-for-coders
+Version: 0.1.0
+Summary: Deep learning project with fast.ai
+Requires-Python: <3.14,>=3.11
+Requires-Dist: fastai
+Requires-Dist: ipywidgets>=8.1.0
+Requires-Dist: matplotlib<3.10,>=3.8
+Provides-Extra: dev
+Requires-Dist: jupyter; extra == "dev"
+Requires-Dist: notebook; extra == "dev"
